@@ -1,22 +1,22 @@
 {
-	"Songs": [
+	"Experiences": [
 		{
-			"Title": "Lost In Translation",
-			"Director": "Sofia Coppola",
-			"Rating": "R",
-			"Year": "2003"
+			"Title": "Product Manager",
+			"Company": "Ola Group",
+			"Description": "Worked directly wiht the CPO on OLA's first vehicle maintainence system.",
+			"Year": "2022"
 		},
 		{
-			"Title": "Casino Royale",
-			"Director": "Martin Campbell",
-			"Rating": "PG-13",
-			"Year": "2006"
+			"Title": "Machine Leanring Consultant",
+			"Company": "EXL Analytics",
+			"Description": "Worked on deploving ML models and deploying them to make impaact for UK's laargest utility company.",
+			"Year": "2021"
 		},
 		{
-			"Title": "The Dark Knight",
-			"Director": "Christopher Nolan",
-			"Rating": "PG-13",
-			"Year": "2008"
+			"Title": "Research Associate",
+			"Company": "TAVLABS, IIITD",
+			"Description": "Worked on implementing ML and DL models for Sars-CoV-2 genome language modelling using BERT.",
+			"Year": "2021"
 		}
 	]
 }
