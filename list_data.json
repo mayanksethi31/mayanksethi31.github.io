@@ -1,22 +1,22 @@
 {
-	"Experiences": [
-		{
-			"Title": "Product Manager",
-			"Company": "Ola Group",
-			"Description": "Worked directly with the CPO on OLA's first vehicle maintainence system.",
-			"Year": "2022"
-		},
-		{
-			"Title": "Machine Learning Consultant",
-			"Company": "EXL Analytics",
-			"Description": "Worked on deploying ML models and deploying them to make impact for UK's largest utility company.",
-			"Year": "2021"
-		},
-		{
-			"Title": "Research Associate",
-			"Company": "TavLabs, IIITD",
-			"Description": "Worked on implementing ML and DL models for Sars-CoV-2 genome language modelling using BERT.",
-			"Year": "2021"
-		}
+	"Experiences":[
+	   {
+		  "Title":"Product Manager",
+		  "Company":"Ola Group",
+		  "Description":"Worked directly with the CPO on OLA's first vehicle maintainence system.",
+		  "Year":"2022"
+	   },
+	   {
+		  "Title":"Machine Learning Consultant",
+		  "Company":"EXL Analytics",
+		  "Description":"Worked on deploying ML models and deploying them to make impact for UK's largest utility company.",
+		  "Year":"2021"
+	   },
+	   {
+		  "Title":"Research Associate",
+		  "Company":"TavLabs, IIITD",
+		  "Description":"Worked on implementing ML and DL models for Sars-CoV-2 genome language modelling using BERT.",
+		  "Year":"2021"
+	   }
 	]
-}
+ }
