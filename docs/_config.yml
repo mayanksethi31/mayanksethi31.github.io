@@ -18,10 +18,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your awesome title
-email: your-email@example.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Mayank Idhar daaldiya hai. 
+title: [The title of your site]
+description: [A short description of your site's purpose]
+email: your-email@example.com 
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: jekyllrb
 github_username:  jekyll
@@ -30,9 +29,9 @@ url: https://mayanksethi31.github.io  # the base hostname and protocol for your 
 baseurl: /docs/      # place folder name if the site is served in a subfolder
 
 # Build settings
-theme: jekyll-theme-minimal
+remote_theme: pages-themes/minimal@v0.2.0
 plugins:
-  - jekyll-feed
+- jekyll-remote-theme
 
 # Exclude from processing.
 # The following items will not be processed, by default.
